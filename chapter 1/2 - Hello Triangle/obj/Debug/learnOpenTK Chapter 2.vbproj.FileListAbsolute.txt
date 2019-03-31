@@ -1,0 +1,14 @@
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.vbprojAssemblyReference.cache
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK_Chapter_2.Resources.resources
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.vbproj.GenerateResource.cache
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.vbproj.CoreCompileInputs.cache
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\learnOpenTK Chapter 2.exe
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\learnOpenTK Chapter 2.pdb
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\learnOpenTK Chapter 2.xml
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\OpenTK.dll
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\OpenTK.pdb
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\bin\Debug\OpenTK.xml
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.vbproj.CopyComplete
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.exe
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.xml
+C:\Users\Sander\source\repos\learnOpenTK Chapter 2\learnOpenTK Chapter 2\obj\Debug\learnOpenTK Chapter 2.pdb
